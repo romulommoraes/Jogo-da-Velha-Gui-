@@ -1,0 +1,19 @@
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\bin\Release\netcoreapp3.1\Jogo da Velha (Gui).exe
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\bin\Release\netcoreapp3.1\Jogo da Velha (Gui).deps.json
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\bin\Release\netcoreapp3.1\Jogo da Velha (Gui).runtimeconfig.json
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\bin\Release\netcoreapp3.1\Jogo da Velha (Gui).runtimeconfig.dev.json
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\bin\Release\netcoreapp3.1\Jogo da Velha (Gui).dll
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\bin\Release\netcoreapp3.1\Jogo da Velha (Gui).pdb
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\obj\Release\netcoreapp3.1\Jogo da Velha (Gui).csprojAssemblyReference.cache
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\obj\Release\netcoreapp3.1\Jogo_da_Velha__Gui_.Form1.resources
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\obj\Release\netcoreapp3.1\Jogo da Velha (Gui).csproj.GenerateResource.cache
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\obj\Release\netcoreapp3.1\Jogo da Velha (Gui).AssemblyInfoInputs.cache
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\obj\Release\netcoreapp3.1\Jogo da Velha (Gui).AssemblyInfo.cs
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\obj\Release\netcoreapp3.1\Jogo da Velha (Gui).csproj.CoreCompileInputs.cache
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\obj\Release\netcoreapp3.1\Jogo da Velha (Gui).dll
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\obj\Release\netcoreapp3.1\Jogo da Velha (Gui).pdb
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\obj\Release\netcoreapp3.1\Jogo da Velha (Gui).genruntimeconfig.cache
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\bin\Release\netcoreapp3.1\Jogo da Velha (Gui).dll.manifest
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\bin\Release\netcoreapp3.1\Jogo da Velha (Gui).application
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\obj\Release\netcoreapp3.1\Jogo da Velha (Gui).dll.manifest
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\obj\Release\netcoreapp3.1\Jogo da Velha (Gui).application

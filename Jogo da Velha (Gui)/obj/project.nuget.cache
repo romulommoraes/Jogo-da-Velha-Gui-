@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XdcDneb5yo5CGVMgzC2DNMaW2Ayh3VUQy6vOriopLPL0n6NiN1x+KzTMznGxePwuMFk8v46cR7Acd49jabKmQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rômulo Maciel\\source\\repos\\Jogo da Velha (Gui)\\Jogo da Velha (Gui)\\Jogo da Velha (Gui).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rômulo Maciel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}

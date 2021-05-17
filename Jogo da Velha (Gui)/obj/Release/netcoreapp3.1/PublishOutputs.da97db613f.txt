@@ -1,0 +1,5 @@
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\bin\publish\Jogo da Velha (Gui).exe
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\bin\publish\Jogo da Velha (Gui).dll
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\bin\publish\Jogo da Velha (Gui).deps.json
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\bin\publish\Jogo da Velha (Gui).runtimeconfig.json
+C:\Users\Rômulo Maciel\source\repos\Jogo da Velha (Gui)\Jogo da Velha (Gui)\bin\publish\Jogo da Velha (Gui).pdb
